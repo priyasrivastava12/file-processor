@@ -1,0 +1,10 @@
+com/file/orchestrator/model/FileStatus.class
+com/file/orchestrator/exception/APIException.class
+com/file/orchestrator/model/FileCompareMetaData.class
+com/file/orchestrator/client/FileMatcherServiceClient.class
+com/file/orchestrator/service/KafkaConsumerService.class
+com/file/orchestrator/kafka/FileCompareMetaDataDeserializer.class
+com/file/orchestrator/config/KafkaProperties.class
+com/file/orchestrator/FileMatcherOrchestator.class
+com/file/orchestrator/dao/FileMetaDataRepository.class
+com/file/orchestrator/util/DataSourceConfig.class
